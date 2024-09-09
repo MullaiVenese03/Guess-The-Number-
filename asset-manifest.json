@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Guess-The-Number-Game/static/css/main.f4736351.css",
+    "main.js": "/Guess-The-Number-Game/static/js/main.38f51337.js",
+    "static/js/453.f7b97a6b.chunk.js": "/Guess-The-Number-Game/static/js/453.f7b97a6b.chunk.js",
+    "index.html": "/Guess-The-Number-Game/index.html",
+    "main.f4736351.css.map": "/Guess-The-Number-Game/static/css/main.f4736351.css.map",
+    "main.38f51337.js.map": "/Guess-The-Number-Game/static/js/main.38f51337.js.map",
+    "453.f7b97a6b.chunk.js.map": "/Guess-The-Number-Game/static/js/453.f7b97a6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4736351.css",
+    "static/js/main.38f51337.js"
+  ]
+}
